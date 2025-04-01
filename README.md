@@ -1,5 +1,8 @@
 Created a spring boot app for Mini Too good to Go which will be used to add new food item , get available food items and update food items.
+
+
 created below GET, POST and PUT REST Apis :
+
 POST :  http://localhost:8080/api/food/add   -- to add new food items ex:
 {
   "name": "Bread",
